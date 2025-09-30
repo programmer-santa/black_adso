@@ -1,13 +1,13 @@
-package com.adso.aprendiz;
+package com.prueba.prueba;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AprendizApplication {
+public class PruebaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AprendizApplication.class, args);
+		SpringApplication.run(PruebaApplication.class, args);
 	}
 
 }
